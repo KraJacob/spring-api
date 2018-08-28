@@ -1,4 +1,4 @@
-package entity;
+package com.jacob.ci.springapi.entity;
 
 import javax.persistence.*;
 

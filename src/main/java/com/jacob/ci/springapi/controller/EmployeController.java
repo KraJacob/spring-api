@@ -1,9 +1,9 @@
-package controller;
+package com.jacob.ci.springapi.controller;
 
-import entity.Employe;
+import com.jacob.ci.springapi.entity.Employe;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import services.EmployeService;
+import com.jacob.ci.springapi.services.EmployeService;
 
 import java.util.List;
 
